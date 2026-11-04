@@ -1,5 +1,0 @@
-{
-  "tables": [
-    {"name": "students", "columns": [{"name": "id", "type": "INTEGER"}, {"name": "name", "type": "TEXT"}, {"name": "age", "type": "INTEGER"}], "rows": [[1, "Ani", 21]]}
-  ]
-}
